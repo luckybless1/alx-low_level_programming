@@ -4,7 +4,7 @@
 
 
 int main(void)
-{
+{	/* am just trying to learn something here and is not going well*/
 	int n;
 
 	srand(time(0));
