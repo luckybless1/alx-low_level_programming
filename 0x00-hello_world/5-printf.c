@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 /**
- * main - printf eith proper grammer, but the outcome is a piece of art,
+ * main - prints with proper grammer, but the outcome is a piece of art,
  *
  * Return:Always 0 (success)
  **/
