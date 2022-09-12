@@ -27,4 +27,4 @@ int main(void)
 		printf("%d you have a negative number \n" , n);
 	}
 	
-	return (0);
+	return (0) ;
