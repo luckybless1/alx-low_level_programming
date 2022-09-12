@@ -1,10 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
+/*
+ * main - check whether the generated number is zero, positive or negative
+ *
+ * Return: Always 0 (success)
+ **/
 
 int main(void)
-{	/* am just trying to learn something here and is not going well*/
+{	
 	int n;
 
 	srand(time(0));
