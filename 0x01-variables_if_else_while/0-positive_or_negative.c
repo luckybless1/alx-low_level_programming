@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
  * main - check whether the generated number is zero, positive or negative
  *
  * Return: Always 0 (success)
@@ -27,4 +27,5 @@ int main(void)
 		printf("%d you have a negative number \n" , n);
 	}
 	
-	return (0) ;
+	return (0);
+}
