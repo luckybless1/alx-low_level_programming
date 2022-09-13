@@ -8,6 +8,6 @@ int main(void)
 {
 	printf("_putchar");
 	prinf('\n');
-
+	
 	return (0);
 }
