@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isdigiit - check for a digit through 0 to 9
+ * _isdigiit - a function that  checks for a digit to 0-9
  * @c: input that is going to check
  * Return: 1 if @c is a digiy , otherwise 0
  **/
